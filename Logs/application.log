@@ -1,0 +1,120 @@
+2026-02-03 22:57:09,436 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-03 22:57:09,511 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-03 22:57:11,321 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-03 22:57:11,925 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-03 22:57:12,181 [main] INFO Selenium_Maven_BDD - ********* Verifying Dashboad page title after login successful **************
+2026-02-03 22:57:13,733 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-03 22:57:13,737 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-03 22:57:14,889 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-03 22:57:15,768 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-03 22:57:16,611 [main] INFO Selenium_Maven_BDD - ********* Verifying Dashboad page title after login successful **************
+2026-02-03 22:57:18,904 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-03 22:57:18,908 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-03 22:57:20,801 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-03 22:57:21,701 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-03 22:57:21,964 [main] INFO Selenium_Maven_BDD - ********* Verifying Dashboad page title after login successful **************
+2026-02-03 23:38:40,609 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-03 23:38:40,649 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-03 23:38:42,055 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-03 23:38:42,567 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-03 23:38:43,151 [main] INFO Selenium_Maven_BDD - ************* Login Passed *****************
+2026-02-03 23:38:55,221 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-03 23:38:55,260 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-03 23:38:56,248 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-03 23:38:56,640 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-03 23:38:58,079 [main] INFO Selenium_Maven_BDD - ************* Login Passed *****************
+2026-02-03 23:39:07,915 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-03 23:39:07,949 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-03 23:39:08,846 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-03 23:39:09,398 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-03 23:39:09,874 [main] INFO Selenium_Maven_BDD - ************* Login Passed *****************
+2026-02-03 23:39:27,275 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-03 23:39:27,308 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-03 23:39:28,333 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-03 23:39:28,882 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-03 23:39:29,384 [main] INFO Selenium_Maven_BDD - ************* Login Passed *****************
+2026-02-03 23:39:46,831 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-03 23:39:46,877 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-03 23:39:52,801 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-03 23:39:53,215 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-03 23:41:48,412 [main] INFO Selenium_Maven_BDD - ************* Login Passed *****************
+2026-02-03 23:41:51,434 [main] INFO Selenium_Maven_BDD - ************* clicking on logout *****************
+2026-02-05 12:58:34,537 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 12:58:34,576 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 12:58:37,176 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 12:58:37,674 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 13:02:43,206 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 13:02:43,249 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 13:02:46,690 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 13:02:47,198 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 13:02:48,697 [main] INFO Selenium_Maven_BDD - ************* Login Passed *****************
+2026-02-05 13:06:31,114 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 13:06:31,155 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 13:06:33,806 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 13:06:34,242 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 13:07:45,918 [main] INFO Selenium_Maven_BDD - ************* Login Passed *****************
+2026-02-05 13:07:48,946 [main] INFO Selenium_Maven_BDD - ************* clicking on logout *****************
+2026-02-05 13:07:55,585 [main] INFO Selenium_Maven_BDD - ************* Login Passed *****************
+2026-02-05 13:07:58,604 [main] INFO Selenium_Maven_BDD - ************* closing browser *****************
+2026-02-05 13:13:32,793 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 13:13:32,835 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 13:14:35,093 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 13:14:35,475 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 13:25:34,848 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 13:25:34,905 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 13:25:46,210 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 13:25:46,607 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 13:32:58,950 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 13:32:59,009 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 13:33:11,791 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 13:33:12,211 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 14:04:02,779 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 14:04:02,830 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 14:04:08,799 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 14:04:09,649 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 14:04:10,027 [main] INFO Selenium_Maven_BDD - ************* Login Passed *****************
+2026-02-05 14:09:47,234 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 14:09:47,295 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 14:09:52,216 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 14:09:52,673 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 14:10:47,310 [main] INFO Selenium_Maven_BDD - ************* Login Passed *****************
+2026-02-05 14:10:50,350 [main] INFO Selenium_Maven_BDD - ************* clicking on logout *****************
+2026-02-05 14:10:56,991 [main] INFO Selenium_Maven_BDD - ************* Login Passed *****************
+2026-02-05 14:11:00,013 [main] INFO Selenium_Maven_BDD - ************* closing browser *****************
+2026-02-05 14:21:38,662 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 14:21:38,709 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 14:21:46,295 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 14:21:46,749 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 14:22:19,878 [main] INFO Selenium_Maven_BDD - ********* Verifying Dashboad page title after login successful **************
+2026-02-05 14:22:24,103 [main] INFO Selenium_Maven_BDD - ********* Clicking on customer main menu **************
+2026-02-05 14:31:27,079 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 14:31:27,133 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 14:31:32,300 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 14:31:32,660 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 14:32:13,694 [main] INFO Selenium_Maven_BDD - ********* Verifying Dashboad page title after login successful **************
+2026-02-05 14:32:40,722 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 14:32:40,772 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 14:33:19,241 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 14:33:19,665 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 14:33:25,060 [main] INFO Selenium_Maven_BDD - ********* Verifying Dashboad page title after login successful **************
+2026-02-05 14:33:51,728 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 14:33:51,784 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 14:34:10,919 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 14:34:11,308 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 14:34:14,348 [main] INFO Selenium_Maven_BDD - ********* Verifying Dashboad page title after login successful **************
+2026-02-05 14:34:40,127 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 14:34:40,173 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 14:34:44,538 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 14:34:44,965 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 14:35:09,452 [main] INFO Selenium_Maven_BDD - ********* Verifying Dashboad page title after login successful **************
+2026-02-05 14:35:12,486 [main] INFO Selenium_Maven_BDD - ********* Clicking on customer main menu **************
+2026-02-05 14:35:14,618 [main] INFO Selenium_Maven_BDD - ********* Clicking on customer sub menu **************
+2026-02-05 14:38:29,498 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 14:38:29,545 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 14:38:40,600 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 14:38:41,132 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
+2026-02-05 14:38:41,663 [main] INFO Selenium_Maven_BDD - ********* Verifying Dashboad page title after login successful **************
+2026-02-05 14:39:05,190 [main] INFO Selenium_Maven_BDD - ************* Launching Browser *****************
+2026-02-05 14:39:05,258 [main] INFO Selenium_Maven_BDD - ************* Opening URL  *****************
+2026-02-05 14:39:11,493 [main] INFO Selenium_Maven_BDD - ************* Providing user and password *****************
+2026-02-05 14:39:12,031 [main] INFO Selenium_Maven_BDD - ************* click on login *****************
