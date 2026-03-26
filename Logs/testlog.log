@@ -141,3 +141,13 @@
 2026-03-11 16:49:04,915 - Selenium_Maven_BDD -INFO - ************* Providing user and password *****************
 2026-03-11 16:49:05,544 - Selenium_Maven_BDD -INFO - ************* click on login *****************
 2026-03-11 16:49:05,894 - Selenium_Maven_BDD -INFO - ************* Login Passed *****************
+2026-03-25 14:47:01,353 - Selenium_Maven_BDD -INFO - ************* Launching Browser *****************
+2026-03-25 14:47:01,393 - Selenium_Maven_BDD -INFO - ************* Opening URL  *****************
+2026-03-25 14:47:02,658 - Selenium_Maven_BDD -INFO - ************* Providing user and password *****************
+2026-03-25 14:47:03,206 - Selenium_Maven_BDD -INFO - ************* click on login *****************
+2026-03-25 14:47:03,474 - Selenium_Maven_BDD -INFO - ************* Login Passed *****************
+2026-03-25 14:51:31,218 - Selenium_Maven_BDD -INFO - ************* Launching Browser *****************
+2026-03-25 14:51:31,285 - Selenium_Maven_BDD -INFO - ************* Opening URL  *****************
+2026-03-25 14:51:32,935 - Selenium_Maven_BDD -INFO - ************* Providing user and password *****************
+2026-03-25 14:51:33,634 - Selenium_Maven_BDD -INFO - ************* click on login *****************
+2026-03-25 14:51:33,917 - Selenium_Maven_BDD -INFO - ************* Login Passed *****************

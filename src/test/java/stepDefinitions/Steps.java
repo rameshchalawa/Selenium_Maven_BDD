@@ -21,6 +21,13 @@ import pageObjects.AddcustomerPage;
 import pageObjects.LoginPage;
 import pageObjects.SearchCustomerPage;
 
+/*
+ * This Steps class will contain the step definitions for the Cucumber feature files. 
+ * It will use the Page Object Model (POM) to interact with the web elements on the pages. 
+ * The step definitions will be written in a way that they can be reused across multiple feature files, 
+ * achieving code reusability and maintainability by centralizing the common code in a single class.
+ */
+
 public class Steps extends BaseClass
 {
 	@Before
@@ -67,14 +74,16 @@ public class Steps extends BaseClass
 	}
 
 	@When("User opens URL {string}")
-	public void user_opens_URL(String url) {
+	public void user_opens_URL(String url) //parameterization of URL
+	{
 	logger.info("************* Opening URL  *****************");
 	driver.get(url);
 	 driver.manage().window().maximize();
 	}
 
 	@When("User enters Email as {string} and Password as {string}")
-	public void user_enters_Email_as_and_Password_as(String email, String password) {
+	public void user_enters_Email_as_and_Password_as(String email, String password) //parameterization of email and password
+	{
 		logger.info("************* Providing user and password *****************");
 		lp.setUserName(email);
 		lp.setPassword(password);
